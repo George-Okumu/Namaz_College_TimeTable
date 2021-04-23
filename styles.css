@@ -1,0 +1,27 @@
+h1{
+    color: crimson;
+}
+table{
+    width: 70%;
+    border: 2px solid crimson;
+    border-collapse: collapse;
+}
+
+th,td{   
+    border: 2px solid crimson;
+    border-collapse: collapse;
+  color: blue;
+    padding: 9px;
+}
+td[colspan="5"] {
+    text-align: center;
+    color:red;
+}
+.ICTSame{
+    border-left:none;
+    border-bottom:none;
+    border-top:none;
+}
+.ICTsame0{
+    border:none;
+}
